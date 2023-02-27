@@ -1,0 +1,11 @@
+theme = 'fleet_dark'
+
+[editor]
+auto-save = true
+bufferline = 'always'
+color-modes = true
+idle-timeout = 0
+completion-trigger-len = 1
+
+[editor.lsp]
+display-messages = true
